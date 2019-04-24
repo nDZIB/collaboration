@@ -1,3 +1,1 @@
 This is a file that I want to be edited: add your name and some information for the EDIT (added this line directly from gitHub)
-Line1 - added via git - Name: Ntomb Libog Nelson Jack
-Name2: Serkwi Bruno Ndzi 
